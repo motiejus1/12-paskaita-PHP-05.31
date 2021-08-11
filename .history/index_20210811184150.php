@@ -1,0 +1,13 @@
+<?php 
+
+
+class Klientai {
+
+    pub
+
+
+}
+
+
+
+?>
